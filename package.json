@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://<Arunima-72>.github.io/Devops",  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
